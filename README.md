@@ -2,8 +2,7 @@
 
 # Brazillian Plate Detector
 
-Detect brazillian license plates from pictures using YOLOv3
-This project uses pretrained weights from YOLOv3 and [the brazillian alpr](http://www.inf.ufrgs.br/~smsilva/real-time-brazilian-alpr/)
+Detect brazillian license plates from pictures using YOLOv3.This project uses pretrained weights from YOLOv3 and [the brazillian alpr](http://www.inf.ufrgs.br/~smsilva/real-time-brazilian-alpr/)
 
 ## Dependencies
 
